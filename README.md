@@ -1,41 +1,14 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt-br">
 <head>
   <meta charset="UTF-8">
-  <titlte>GRÊMIO</titlte>
-  body {
-    background-color: black;
- }
-.time {
-    height: 200px;
-    width: 150px;
-    border: 10px;
-    position: fixed;
-    top: 100px;
-    left: 25px;
- }
- .escudo{
-     color: blue;
-     position: fixed;
-     top: 25px;
-     left: 10px;
- }
- .nometime{ 
-     color: white;
-     position: fixed;
-     top: 25px;
-     left: 40px;
- }
- .time.escudo{
-      border: 10px solid blue;
- }
+  <link rel="stylesheet" href="style.css">
+  <title>GRÊMIO</title>
    </style>
- </head>
- <body>
-     <h1 class="escudo">jogadores</h1>
-     <a href="time.html">
-          <img class="filme" src=""
+   <body>
+    <img class="time" src="https://iconape.com/wp-content/files/iy/309932/png/309932.png">
+    <a href="renatop.html">
+    <img class="renatop" src="https://uploads.metropoles.cloud/wp-content/uploads/2020/12/31115558/Renato-Gaucho-gremio-600x400.jpg">
     </a>
-    <p class="nometime">jogadores grêmio</p>
-</body>
-</html>
+   </body>
+ </head>
